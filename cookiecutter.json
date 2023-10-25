@@ -1,5 +1,5 @@
 {
   "flutter_project_name": null,
-  "flutter_project_name_formatted": "{{ cookiecutter.flutter_project_name_formatted|lower|replace(' ', '-')|replace('_', '-') }}",
+  "flutter_project_name_formatted": "{{ cookiecutter.flutter_project_name|lower|replace(' ', '-')|replace('_', '-') }}",
   "repository_name": null
 }
